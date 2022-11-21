@@ -14,8 +14,7 @@
 
 - Website design template from [ADDA Association](http://adda-association.org/), if rights are reserved, please reach below team members on github or any social handle for content removal.
 
-
 ## For information about conference:
 
 - [@rajni-aluvala](https://github.com/rajni-aluvala)
-- [@py563](https://twitter.com/py563)
+- [@py563](https://github.com/py563)
