@@ -1,8 +1,8 @@
-# AIHPC International Conference Website
+# Website for International Conference Website
 
 > Plain old static html website deployed using gh-pages and content edited by gitpod or vscode
 
-- lives on [aihpc.cf](https://aihpc.cf/)
+- lives on [here](https://aihpc.cf/)
 
 ## Todo & Things to remember:
 
